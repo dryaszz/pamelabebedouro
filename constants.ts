@@ -21,7 +21,7 @@ export const IMAGES = {
   hero: "https://i.imgur.com/Au9o1l9.jpeg",
   whitening: [
     "https://i.imgur.com/RtE1Slo.jpeg",
-    "https://i.imgur.com/RtE1Slo.jpeg", // Duplicated in prompt, keeping strictly as requested
+    "https://i.imgur.com/1G6SmZv.jpeg",
     "https://i.imgur.com/PKgSfox.jpeg"
   ],
   fillers: [
